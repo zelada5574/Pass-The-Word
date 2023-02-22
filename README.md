@@ -14,6 +14,9 @@ The writePassword function calls the GetCritera function  that would have indivi
  
 After getCriteria is completed and returned true if the user inputed everything correctly the generate password fucntion would run and create a password for the user. IF getCriteria comes back true passwordText.value shows the password, else the box will be blank.
 
+### Notable sources usef for reference
+Watched videos on how to go about this from Daniel Vega and a James Q Quick. Did use some code from the if loops from Daniel. For loop for the password generation was same from both sources. 
+
 ![alt text](./Assets/images/Password_generator.JPG)
 
 https://github.com/zelada5574/Pass-The-Word
