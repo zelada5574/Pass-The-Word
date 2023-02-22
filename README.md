@@ -16,3 +16,6 @@ After getCriteria is completed and returned true if the user inputed everything 
 
 ![alt text](./Assets/images/Password_generator.JPG)
 
+https://github.com/zelada5574/Pass-The-Word
+https://zelada5574.github.io/Pass-The-Word/
+
